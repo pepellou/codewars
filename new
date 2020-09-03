@@ -5,6 +5,19 @@ echo "Title of the kata (human readable):"
 read title
 echo ''
 
+echo "Level of the kata (1-8):"
+read level
+echo ''
+level_color='888888'
+case "$level" in
+    ("1")    level_color='866cc7';;
+    ("2")    level_color='866cc7';;
+    ("3")    level_color='3c7ebb';;
+    ("4")    level_color='3c7ebb';;
+    ("5")    level_color='ac760d';;
+    ("6")    level_color='ac760d';;
+esac
+
 echo "Folder name (no spaces, please):"
 read folder
 echo ''
@@ -49,4 +62,4 @@ echo '    });' >> $DIR/$folder/tests.js
 echo '  }' >> $DIR/$folder/tests.js
 echo '});' >> $DIR/$folder/tests.js
 
-echo '- '$title' [description]('$url') [solution]('$folder'/solution.js)' >> $DIR/README.md
+echo '- ![](https://img.shields.io/badge/level-'$level'kyu-'$level_color') '$title' | [Description]('$url') | Solutions: [![](https://img.shields.io/badge/-JavaScript-F05032?style=flat&logo=javascript&logoColor=white)]('$folder'/solution.js)' >> $DIR/README.md
