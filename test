@@ -1,0 +1,13 @@
+#!/bin/bash
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+kata=$1
+
+tempFile=$DIR/tmpFileWithAVeryLongName_ifYouSeeThisFile_Please_DeleteIt.js
+
+cat $1/solution.js > $tempFile
+cat $1/tests.js >> $tempFile
+
+mocha $tempFile
+
+rm $tempFile
