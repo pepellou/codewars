@@ -1,6 +1,8 @@
 # codewars
 Just my solutions to [Codewars](https://www.codewars.com/users/pepellou) katas.
 
+![](https://www.codewars.com/users/pepellou/badges/large)
+
 ## Katas
 
 - ![](https://img.shields.io/badge/level-4kyu-314f6b) Shortest Knight Path | [Description](https://www.codewars.com/kata/549ee8b47111a81214000941) | [Solution](katas/shortest_knight_path/solution.js)
