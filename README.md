@@ -12,3 +12,4 @@ Just my solutions to [Codewars](https://www.codewars.com/users/pepellou) katas.
 - ![](https://img.shields.io/badge/level-6kyu-705521) Where is my parent | [Description](https://www.codewars.com/kata/58539230879867a8cd00011c) | [Solution](where_is_my_parent/solution.js)
 - ![](https://img.shields.io/badge/level-6kyu-705521) Equal Sides Of An Array | [Description](https://www.codewars.com/kata/5679aa472b8f57fb8c000047) | [Solution](equal_sides_of_an_array/solution.js)
 - ![](https://img.shields.io/badge/level-6kyu-705521) Prize Draw | [Description](https://www.codewars.com/kata/5616868c81a0f281e500005c) | [Solution](prize_draw/solution.js)
+- ![](https://img.shields.io/badge/level-5kyu-ac760d) Regex Password Validation | [Description](https://www.codewars.com/kata/52e1476c8147a7547a000811) | [Solution](regex_password_validation/solution.js)
