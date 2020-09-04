@@ -17,3 +17,4 @@ Just my solutions to [Codewars](https://www.codewars.com/users/pepellou) katas.
 - ![](https://img.shields.io/badge/level-5kyu-ac760d) Perimeter of squares in a rectangle | [Description](https://www.codewars.com/kata/559a28007caad2ac4e000083) | [Solution](perimeter_squares_in_rectangle/solution.js)
 - ![](https://img.shields.io/badge/level-5kyu-ac760d) One Line Task: Count Down II | [Description](https://www.codewars.com/kata/58f85908bc60c645d5000095) | [Solution](oneliner_countdown_2/solution.js)
 - ![](https://img.shields.io/badge/level-5kyu-ac760d) Multi Line Task: Fizz Buzz | [Description](https://www.codewars.com/kata/593550e26d07549c5100004a) | [Solution](multiliner_fizz_buzz/solution.js)
+- ![](https://img.shields.io/badge/level-5kyu-ac760d) Simple assembler interpreter | [Description](https://www.codewars.com/kata/58e24788e24ddee28e000053) | [Solution](simple_assembler_interpreter/solution.js)
