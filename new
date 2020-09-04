@@ -11,11 +11,13 @@ echo ''
 level_color='888888'
 case "$level" in
     ("1")    level_color='866cc7';;
-    ("2")    level_color='866cc7';;
+    ("2")    level_color='51417c';;
     ("3")    level_color='3c7ebb';;
-    ("4")    level_color='3c7ebb';;
+    ("4")    level_color='314f6b';;
     ("5")    level_color='ac760d';;
-    ("6")    level_color='ac760d';;
+    ("6")    level_color='705521';;
+    ("7")    level_color='888888';;
+    ("8")    level_color='444444';;
 esac
 
 echo "Folder name (no spaces, please):"
