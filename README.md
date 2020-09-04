@@ -23,3 +23,4 @@ Just my solutions to [Codewars](https://www.codewars.com/users/pepellou) katas.
 - ![](https://img.shields.io/badge/level-6kyu-705521) Help the bookseller | [Description](https://www.codewars.com/kata/54dc6f5a224c26032800005c) | [Solution](help_the_bookseller/solution.js)
 - ![](https://img.shields.io/badge/level-6kyu-705521) Array Helpers | [Description](https://www.codewars.com/kata/525d50d2037b7acd6e000534) | [Solution](array_helpers/solution.js)
 - ![](https://img.shields.io/badge/level-6kyu-705521) Kebabize | [Description](https://www.codewars.com/kata/57f8ff867a28db569e000c4a) | [Solution](kebabize/solution.js)
+- ![](https://img.shields.io/badge/level-6kyu-705521) Counting Duplicates | [Description](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) | [Solution](counting_duplicates/solution.js)
