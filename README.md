@@ -6,6 +6,7 @@ Just my solutions to [Codewars](https://www.codewars.com/users/pepellou) katas.
 ## Katas
 
 - ![](https://img.shields.io/badge/level-4kyu-314f6b) Shortest Knight Path | [Description](https://www.codewars.com/kata/549ee8b47111a81214000941) | [Solution](katas/shortest_knight_path/solution.js)
+- ![](https://img.shields.io/badge/level-4kyu-314f6b) N queens problem | [Description](https://www.codewars.com/kata/52cdc1b015db27c484000031) | [Solution](katas/n_queens/solution.js)
 - ![](https://img.shields.io/badge/level-5kyu-ac760d) Unique digits sequence | [Description](https://www.codewars.com/kata/599688d0e2800dda4e0001b0) | [Solution](katas/unique_digits_sequence/solution.js)
 - ![](https://img.shields.io/badge/level-5kyu-ac760d) Math Issues | [Description](https://www.codewars.com/kata/5267faf57526ea542e0007fb) | [Solution](katas/math_issues/solution.js)
 - ![](https://img.shields.io/badge/level-5kyu-ac760d) Regex Password Validation | [Description](https://www.codewars.com/kata/52e1476c8147a7547a000811) | [Solution](katas/regex_password_validation/solution.js)
@@ -28,4 +29,3 @@ Just my solutions to [Codewars](https://www.codewars.com/users/pepellou) katas.
 - ![](https://img.shields.io/badge/level-6kyu-705521) Counting Duplicates | [Description](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) | [Solution](katas/counting_duplicates/solution.js)
 - ![](https://img.shields.io/badge/level-7kyu-888888) Turkish Numbers, 0-99 | [Description](https://www.codewars.com/kata/5ebd53ea50d0680031190b96) | [Solution](katas/turkish_numbers/solution.js)
 - ![](https://img.shields.io/badge/level-7kyu-888888) How many are smaller than me | [Description](https://www.codewars.com/kata/56a1c074f87bc2201200002e) | [Solution](katas/how_many_are_smaller_than_me/solution.js)
-- ![](https://img.shields.io/badge/level-4kyu-314f6b) N queens problem | [Description](https://www.codewars.com/kata/52cdc1b015db27c484000031) | [Solution](katas/n_queens/solution.js)
