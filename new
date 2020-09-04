@@ -28,40 +28,40 @@ echo "Url of kata:"
 read url
 echo ''
 
-mkdir $DIR/$folder
+mkdir $DIR/katas/$folder
 
-echo '#!/bin/bash' > $DIR/$folder/test
-echo 'DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"' >> $DIR/$folder/test
-echo '' >> $DIR/$folder/test
-echo '$DIR/../test $DIR' >> $DIR/$folder/test
-chmod a+x $DIR/$folder/test
+echo '#!/bin/bash' > $DIR/katas/$folder/test
+echo 'DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"' >> $DIR/katas/$folder/test
+echo '' >> $DIR/katas/$folder/test
+echo '$DIR/../../test $DIR' >> $DIR/katas/$folder/test
+chmod a+x $DIR/katas/$folder/test
 
-echo '#!/bin/bash' > $DIR/$folder/work
-echo 'DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"' >> $DIR/$folder/work
-echo '' >> $DIR/$folder/work
-echo 'vi -o '$DIR/$folder'/solution.js '$DIR/$folder'/tests.js' >> $DIR/$folder/work
-chmod a+x $DIR/$folder/work
+echo '#!/bin/bash' > $DIR/katas/$folder/work
+echo 'DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"' >> $DIR/katas/$folder/work
+echo '' >> $DIR/katas/$folder/work
+echo 'vi -o '$DIR/katas/$folder'/solution.js '$DIR/katas/$folder'/tests.js' >> $DIR/katas/$folder/work
+chmod a+x $DIR/katas/$folder/work
 
-echo 'const multiply = (a, b) => {' > $DIR/$folder/solution.js
-echo '    return a * b;' >> $DIR/$folder/solution.js
-echo '}' >> $DIR/$folder/solution.js
+echo 'const multiply = (a, b) => {' > $DIR/katas/$folder/solution.js
+echo '    return a * b;' >> $DIR/katas/$folder/solution.js
+echo '}' >> $DIR/katas/$folder/solution.js
 
-echo 'const chai = require("chai");' > $DIR/$folder/tests.js
-echo 'const assert = chai.assert;' >> $DIR/$folder/tests.js
-echo '' >> $DIR/$folder/tests.js
-echo 'const tests = [' >> $DIR/$folder/tests.js
-echo '  [ 0,   1,    0],' >> $DIR/$folder/tests.js
-echo '  [16,   2,   32],' >> $DIR/$folder/tests.js
-echo '  [70,  -1,  -70],' >> $DIR/$folder/tests.js
-echo '  [26, -26, -676],' >> $DIR/$folder/tests.js
-echo '];' >> $DIR/$folder/tests.js
-echo '' >> $DIR/$folder/tests.js
-echo 'describe("Tests", function() {' >> $DIR/$folder/tests.js
-echo '  for (const [a, b, expected] of tests) {' >> $DIR/$folder/tests.js
-echo '    it(`input: ${a}, ${b}`, function() {' >> $DIR/$folder/tests.js
-echo '      assert.strictEqual(multiply(a, b), expected);' >> $DIR/$folder/tests.js
-echo '    });' >> $DIR/$folder/tests.js
-echo '  }' >> $DIR/$folder/tests.js
-echo '});' >> $DIR/$folder/tests.js
+echo 'const chai = require("chai");' > $DIR/katas/$folder/tests.js
+echo 'const assert = chai.assert;' >> $DIR/katas/$folder/tests.js
+echo '' >> $DIR/katas/$folder/tests.js
+echo 'const tests = [' >> $DIR/katas/$folder/tests.js
+echo '  [ 0,   1,    0],' >> $DIR/katas/$folder/tests.js
+echo '  [16,   2,   32],' >> $DIR/katas/$folder/tests.js
+echo '  [70,  -1,  -70],' >> $DIR/katas/$folder/tests.js
+echo '  [26, -26, -676],' >> $DIR/katas/$folder/tests.js
+echo '];' >> $DIR/katas/$folder/tests.js
+echo '' >> $DIR/katas/$folder/tests.js
+echo 'describe("Tests", function() {' >> $DIR/katas/$folder/tests.js
+echo '  for (const [a, b, expected] of tests) {' >> $DIR/katas/$folder/tests.js
+echo '    it(`input: ${a}, ${b}`, function() {' >> $DIR/katas/$folder/tests.js
+echo '      assert.strictEqual(multiply(a, b), expected);' >> $DIR/katas/$folder/tests.js
+echo '    });' >> $DIR/katas/$folder/tests.js
+echo '  }' >> $DIR/katas/$folder/tests.js
+echo '});' >> $DIR/katas/$folder/tests.js
 
-echo '- ![](https://img.shields.io/badge/level-'$level'kyu-'$level_color') '$title' | [Description]('$url') | [Solution]('$folder'/solution.js)' >> $DIR/README.md
+echo '- ![](https://img.shields.io/badge/level-'$level'kyu-'$level_color') '$title' | [Description]('$url') | [Solution](katas/'$folder'/solution.js)' >> $DIR/README.md
