@@ -21,3 +21,4 @@ Just my solutions to [Codewars](https://www.codewars.com/users/pepellou) katas.
 - ![](https://img.shields.io/badge/level-5kyu-ac760d) Number of trailing zeros of N! | [Description](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34) | [Solution](number_of_trailing_zeros_of_n_factorial/solution.js)
 - ![](https://img.shields.io/badge/level-6kyu-705521) Scheduling (Shortest Job First or SJF) | [Description](https://www.codewars.com/kata/550cc572b9e7b563be00054f) | [Solution](scheduling_SJF/solution.js)
 - ![](https://img.shields.io/badge/level-6kyu-705521) Help the bookseller | [Description](https://www.codewars.com/kata/54dc6f5a224c26032800005c) | [Solution](help_the_bookseller/solution.js)
+- ![](https://img.shields.io/badge/level-6kyu-705521) Array Helpers | [Description](https://www.codewars.com/kata/525d50d2037b7acd6e000534) | [Solution](array_helpers/solution.js)
