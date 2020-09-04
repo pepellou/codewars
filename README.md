@@ -15,3 +15,4 @@ Just my solutions to [Codewars](https://www.codewars.com/users/pepellou) katas.
 - ![](https://img.shields.io/badge/level-5kyu-ac760d) Regex Password Validation | [Description](https://www.codewars.com/kata/52e1476c8147a7547a000811) | [Solution](regex_password_validation/solution.js)
 - ![](https://img.shields.io/badge/level-6kyu-705521) IPv4 to int32 | [Description](https://www.codewars.com/kata/52ea928a1ef5cfec800003ee) | [Solution](ipv4_to_int32/solution.js)
 - ![](https://img.shields.io/badge/level-5kyu-ac760d) Perimeter of squares in a rectangle | [Description](https://www.codewars.com/kata/559a28007caad2ac4e000083) | [Solution](perimeter_squares_in_rectangle/solution.js)
+- ![](https://img.shields.io/badge/level-5kyu-ac760d) One Line Task: Count Down II | [Description](https://www.codewars.com/kata/58f85908bc60c645d5000095) | [Solution](oneliner_countdown_2/solution.js)
