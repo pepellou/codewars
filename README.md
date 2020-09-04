@@ -10,3 +10,4 @@ Just my solutions to [Codewars](https://www.codewars.com/users/pepellou) katas.
 - ![](https://img.shields.io/badge/level-5kyu-ac760d) Math Issues | [Description](https://www.codewars.com/kata/5267faf57526ea542e0007fb) | [Solution](math_issues/solution.js)
 - ![](https://img.shields.io/badge/level-6kyu-ac760d) Sum The Tree | [Description](https://www.codewars.com/kata/5800580f8f7ddaea13000025) | [Solution](sum_the_tree/solution.js)
 - ![](https://img.shields.io/badge/level-6kyu-ac760d) Where is my parent | [Description](https://www.codewars.com/kata/58539230879867a8cd00011c) | [Solution](where_is_my_parent/solution.js)
+- ![](https://img.shields.io/badge/level-6kyu-ac760d) Equal Sides Of An Array | [Description](https://www.codewars.com/kata/5679aa472b8f57fb8c000047) | [Solution](equal_sides_of_an_array/solution.js)
