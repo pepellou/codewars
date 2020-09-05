@@ -50,18 +50,20 @@ echo 'const chai = require("chai");' > $DIR/katas/$folder/tests.js
 echo 'const assert = chai.assert;' >> $DIR/katas/$folder/tests.js
 echo '' >> $DIR/katas/$folder/tests.js
 echo 'const tests = [' >> $DIR/katas/$folder/tests.js
-echo '  [ 0,   1,    0],' >> $DIR/katas/$folder/tests.js
-echo '  [16,   2,   32],' >> $DIR/katas/$folder/tests.js
-echo '  [70,  -1,  -70],' >> $DIR/katas/$folder/tests.js
-echo '  [26, -26, -676],' >> $DIR/katas/$folder/tests.js
+echo '    [ 0,   1,    0],' >> $DIR/katas/$folder/tests.js
+echo '    [16,   2,   32],' >> $DIR/katas/$folder/tests.js
+echo '    [70,  -1,  -70],' >> $DIR/katas/$folder/tests.js
+echo '    [26, -26, -676],' >> $DIR/katas/$folder/tests.js
 echo '];' >> $DIR/katas/$folder/tests.js
 echo '' >> $DIR/katas/$folder/tests.js
 echo 'describe("Tests", function() {' >> $DIR/katas/$folder/tests.js
-echo '  for (const [a, b, expected] of tests) {' >> $DIR/katas/$folder/tests.js
-echo '    it(`input: ${a}, ${b}`, function() {' >> $DIR/katas/$folder/tests.js
-echo '      assert.strictEqual(multiply(a, b), expected);' >> $DIR/katas/$folder/tests.js
-echo '    });' >> $DIR/katas/$folder/tests.js
-echo '  }' >> $DIR/katas/$folder/tests.js
+echo '' >> $DIR/katas/$folder/tests.js
+echo '    for (const [a, b, expected] of tests) {' >> $DIR/katas/$folder/tests.js
+echo '        it(`input: ${a}, ${b}`, function() {' >> $DIR/katas/$folder/tests.js
+echo '            assert.strictEqual(multiply(a, b), expected);' >> $DIR/katas/$folder/tests.js
+echo '        });' >> $DIR/katas/$folder/tests.js
+echo '    }' >> $DIR/katas/$folder/tests.js
+echo '' >> $DIR/katas/$folder/tests.js
 echo '});' >> $DIR/katas/$folder/tests.js
 
 echo '- ![](https://img.shields.io/badge/level-'$level'kyu-'$level_color') '$title' | [Description]('$url') | [Solution](katas/'$folder'/solution.js)' >> $DIR/README.md
