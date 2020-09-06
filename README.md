@@ -35,3 +35,4 @@ Just my solutions to [Codewars](https://www.codewars.com/users/pepellou) katas.
 - ![](https://img.shields.io/badge/level-7kyu-888888) Split by Value | [Description](https://www.codewars.com/kata/5a433c7a8f27f23bb00000dc) | [Solution](katas/split_by_value/solution.js)
 - ![](https://img.shields.io/badge/level-8kyu-444444) Area or Perimeter | [Description](https://www.codewars.com/kata/5ab6538b379d20ad880000ab) | [Solution](katas/area_or_perimeter/solution.js)
 - ![](https://img.shields.io/badge/level-6kyu-705521) uniq | [Description](https://www.codewars.com/kata/52249faee9abb9cefa0001ee) | [Solution](katas/uniq/solution.js)
+- ![](https://img.shields.io/badge/level-6kyu-705521) Backspaces in string | [Description](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3) | [Solution](katas/backspaces_in_string/solution.js)
