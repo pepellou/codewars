@@ -34,3 +34,4 @@ Just my solutions to [Codewars](https://www.codewars.com/users/pepellou) katas.
 - ![](https://img.shields.io/badge/level-7kyu-888888) 16+18=214 | [Description](https://www.codewars.com/kata/5effa412233ac3002a9e471d) | [Solution](katas/16_plus_18_is_214/solution.js)
 - ![](https://img.shields.io/badge/level-7kyu-888888) Split by Value | [Description](https://www.codewars.com/kata/5a433c7a8f27f23bb00000dc) | [Solution](katas/split_by_value/solution.js)
 - ![](https://img.shields.io/badge/level-8kyu-444444) Area or Perimeter | [Description](https://www.codewars.com/kata/5ab6538b379d20ad880000ab) | [Solution](katas/area_or_perimeter/solution.js)
+- ![](https://img.shields.io/badge/level-6kyu-705521) uniq | [Description](https://www.codewars.com/kata/52249faee9abb9cefa0001ee) | [Solution](katas/uniq/solution.js)
