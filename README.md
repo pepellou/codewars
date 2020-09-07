@@ -18,6 +18,7 @@ Just my solutions to [Codewars](https://www.codewars.com/users/pepellou) katas.
 - ![](https://img.shields.io/badge/level-5kyu-ac760d) Number of trailing zeros of N! | [Description](https://www.codewars.com/kata/52f787eb172a8b4ae1000a34) | [Solution](katas/number_of_trailing_zeros_of_n_factorial/solution.js)
 - ![](https://img.shields.io/badge/level-5kyu-ac760d) Last digit of a large number | [Description](https://www.codewars.com/kata/5511b2f550906349a70004e1) | [Solution](katas/last_digit_of_a_large_number/solution.js)
 - ![](https://img.shields.io/badge/level-5kyu-ac760d) The Snake In The Square | [Description](https://www.codewars.com/kata/579f22eee298a765f8000269) | [Solution](katas/the_snake_in_the_square/solution.js)
+- ![](https://img.shields.io/badge/level-5kyu-ac760d) Count 9s from 1 to n | [Description](https://www.codewars.com/kata/55143152820d22cdf00001bb) | [Solution](katas/count_9s/solution.js)
 - ![](https://img.shields.io/badge/level-6kyu-705521) Character with longest consecutive repetition | [Description](https://www.codewars.com/kata/586d6cefbcc21eed7a001155) | [Solution](katas/character_with_longest_consecutive_repetition/solution.js)
 - ![](https://img.shields.io/badge/level-6kyu-705521) Sum The Tree | [Description](https://www.codewars.com/kata/5800580f8f7ddaea13000025) | [Solution](katas/sum_the_tree/solution.js)
 - ![](https://img.shields.io/badge/level-6kyu-705521) Where is my parent | [Description](https://www.codewars.com/kata/58539230879867a8cd00011c) | [Solution](katas/where_is_my_parent/solution.js)
