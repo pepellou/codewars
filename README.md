@@ -32,6 +32,7 @@ Just my solutions to [Codewars](https://www.codewars.com/users/pepellou) katas.
 - ![](https://img.shields.io/badge/level-6kyu-705521) Counting Duplicates | [Description](https://www.codewars.com/kata/54bf1c2cd5b56cc47f0007a1) | [Solution](katas/counting_duplicates/solution.js)
 - ![](https://img.shields.io/badge/level-6kyu-705521) uniq | [Description](https://www.codewars.com/kata/52249faee9abb9cefa0001ee) | [Solution](katas/uniq/solution.js)
 - ![](https://img.shields.io/badge/level-6kyu-705521) Backspaces in string | [Description](https://www.codewars.com/kata/5727bb0fe81185ae62000ae3) | [Solution](katas/backspaces_in_string/solution.js)
+- ![](https://img.shields.io/badge/level-6kyu-705521) Sort Strings by Most Contiguous Vowels | [Description](https://www.codewars.com/kata/5d2d0d34bceae80027bffddb) | [Solution](katas/sort_strings_by_most_contiguous_vowels/solution.js)
 - ![](https://img.shields.io/badge/level-7kyu-888888) Turkish Numbers, 0-99 | [Description](https://www.codewars.com/kata/5ebd53ea50d0680031190b96) | [Solution](katas/turkish_numbers/solution.js)
 - ![](https://img.shields.io/badge/level-7kyu-888888) How many are smaller than me | [Description](https://www.codewars.com/kata/56a1c074f87bc2201200002e) | [Solution](katas/how_many_are_smaller_than_me/solution.js)
 - ![](https://img.shields.io/badge/level-7kyu-888888) 16+18=214 | [Description](https://www.codewars.com/kata/5effa412233ac3002a9e471d) | [Solution](katas/16_plus_18_is_214/solution.js)
