@@ -39,4 +39,5 @@ Just my solutions to [Codewars](https://www.codewars.com/users/pepellou) katas.
 - ![](https://img.shields.io/badge/level-7kyu-888888) 16+18=214 | [Description](https://www.codewars.com/kata/5effa412233ac3002a9e471d) | [Solution](katas/16_plus_18_is_214/solution.js)
 - ![](https://img.shields.io/badge/level-7kyu-888888) Split by Value | [Description](https://www.codewars.com/kata/5a433c7a8f27f23bb00000dc) | [Solution](katas/split_by_value/solution.js)
 - ![](https://img.shields.io/badge/level-7kyu-888888) Word values | [Description](https://www.codewars.com/kata/598d91785d4ce3ec4f000018) | [Solution](katas/word_values/solution.js)
+- ![](https://img.shields.io/badge/level-7kyu-888888) Testing 1-2-3 | [Description](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9) | [Solution](katas/testing_1_2_3/solution.js)
 - ![](https://img.shields.io/badge/level-8kyu-444444) Area or Perimeter | [Description](https://www.codewars.com/kata/5ab6538b379d20ad880000ab) | [Solution](katas/area_or_perimeter/solution.js)
