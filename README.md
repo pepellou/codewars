@@ -41,4 +41,5 @@ Just my solutions to [Codewars](https://www.codewars.com/users/pepellou) katas.
 - ![](https://img.shields.io/badge/level-7kyu-888888) Word values | [Description](https://www.codewars.com/kata/598d91785d4ce3ec4f000018) | [Solution](katas/word_values/solution.js)
 - ![](https://img.shields.io/badge/level-7kyu-888888) Testing 1-2-3 | [Description](https://www.codewars.com/kata/54bf85e3d5b56c7a05000cf9) | [Solution](katas/testing_1_2_3/solution.js)
 - ![](https://img.shields.io/badge/level-7kyu-888888) Running out of space | [Description](https://www.codewars.com/kata/56576f82ab83ee8268000059) | [Solution](katas/running_out_of_space/solution.js)
+- ![](https://img.shields.io/badge/level-7kyu-888888) Diagonals sum | [Description](https://www.codewars.com/kata/5592fc599a7f40adac0000a8) | [Solution](katas/diagonals_sum/solution.js)
 - ![](https://img.shields.io/badge/level-8kyu-444444) Area or Perimeter | [Description](https://www.codewars.com/kata/5ab6538b379d20ad880000ab) | [Solution](katas/area_or_perimeter/solution.js)
