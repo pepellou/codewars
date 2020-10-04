@@ -1,0 +1,4 @@
+#!/bin/bash
+DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+vi -o /Users/pepellou/Workspace/codewars/katas/simple_string_matching/solution.js /Users/pepellou/Workspace/codewars/katas/simple_string_matching/tests.js

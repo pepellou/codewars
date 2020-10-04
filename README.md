@@ -47,4 +47,5 @@ Just my solutions to [Codewars](https://www.codewars.com/users/pepellou) katas.
 - ![](https://img.shields.io/badge/level-7kyu-888888) Pluck | [Description](https://www.codewars.com/kata/530017aac7c0f49926000084) | [Solution](katas/pluck/solution.js)
 - ![](https://img.shields.io/badge/level-7kyu-888888) Multiplicative persistence | [Description](https://www.codewars.com/kata/5c942f40bc4575001a3ea7ec) | [Solution](katas/multiplicative_persistence/solution.js)
 - ![](https://img.shields.io/badge/level-7kyu-888888) Return a string's even characters | [Description](https://www.codewars.com/kata/566044325f8fddc1c000002c) | [Solution](katas/string_evens_characters/solution.js)
+- ![](https://img.shields.io/badge/level-7kyu-888888) Simple string matching | [Description](https://www.codewars.com/kata/5bc052f93f43de7054000188) | [Solution](katas/simple_string_matching/solution.js)
 - ![](https://img.shields.io/badge/level-8kyu-444444) Area or Perimeter | [Description](https://www.codewars.com/kata/5ab6538b379d20ad880000ab) | [Solution](katas/area_or_perimeter/solution.js)
